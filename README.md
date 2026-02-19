@@ -1,5 +1,5 @@
 # GAN
-Generative Adversarial Networks ( GANs )
+Generative Adversarial Networks ( GANS )
 
 Example code to demonstrate the working of GAN.
 
